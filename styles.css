@@ -37,6 +37,7 @@ body {
   border-radius: 65%;
   background: $brown;
 }
+
 .bow {
   position: absolute;
   top: 10px;
@@ -46,6 +47,7 @@ body {
   border-radius: 100%;
   background: #C9003F;
 }
+
 .bow.left {
   position: absolute;
   top: 10px;
@@ -55,6 +57,7 @@ body {
   border-radius: 100%;
   background: #C9003F;
 }
+
 .inside.bow {
   position: absolute;
   top: 15px;
@@ -64,6 +67,7 @@ body {
   border-radius: 100%;
   background: #F7C625;
 }
+
 .inner {
   top: 7px;
   left: 10px;
@@ -85,9 +89,11 @@ body {
   border-radius: 100%;
   background: #000;
 }
+
 .eye.right {
   left: 120px;
 }
+
 .snout {
   top: 100px;
   left:78px;
@@ -96,6 +102,7 @@ body {
   border-radius: 50%;
   background: #FFFFB4;
 }
+
 .nose {
   position: absolute;
   top: 5px;
@@ -105,6 +112,7 @@ body {
   border-radius: 100%;
   background: #000;
 }
+
 .bridge {
   position: absolute;
   top:20px;
@@ -113,6 +121,7 @@ body {
   height:14px;
   background: #000;
 }
+
 .mouth {
   position: absolute;
   top:28px; 
@@ -122,6 +131,7 @@ body {
   background: #000;
   transform: rotate(40deg);
 }
+
 .mouth.right {
   transform: rotate(-40deg);
   left: 22px;    
